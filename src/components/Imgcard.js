@@ -57,7 +57,8 @@ const Imgcard = () => {
               <div className="main-slide-item event1"><button onClick={()=>toggleMenuc()}><img className={isOpenc ? "starclick" : "star"} src={star} alt='star' width="30px" /></button></div>
               <div className="main-slide-text">
                 <h2>자기소개 페이지</h2>
-                <span>React</span><br/>
+                <span>React + Scss</span><br/>
+                <span>구글 애널리틱스연동</span><br/>
                 <span>2021.06.20</span>
               </div>
               <div className="quickbutton">
@@ -74,7 +75,7 @@ const Imgcard = () => {
               <div className="main-slide-item simmons"><button onClick={()=>toggleMenu()}><img className={isOpen ? "starclick" : "star"} src={star} alt='star' width="30px" /></button></div>
               <div className="main-slide-text">
                 <h2>SIMMONS</h2>
-                <span>Bootstrap5 + Gnuboard</span><br/>
+                <span>Bootstrap5 + Gnuboard + Scss</span><br/>
                 <span>구글 애널리틱스연동</span><br/>
                 <span>2021.05.28</span>
               </div>
@@ -95,7 +96,7 @@ const Imgcard = () => {
               <div className="main-slide-item diptqyue"><button onClick={()=>toggleMenua()}><img className={isOpena ? "starclick" : "star"} src={star} alt='star' width="30px" /></button></div>
               <div className="main-slide-text">
                 <h2>diptqyue</h2>
-                <span>Ecommerce</span><br/>
+                <span>Cafe24</span><br/>
                 <span>구글 애널리틱스연동</span><br/>
                 <span>2021.05.20</span>
               </div>
@@ -113,7 +114,7 @@ const Imgcard = () => {
               <div className="main-slide-item hbaf"><button onClick={()=>toggleMenub()}><img className={isOpenb ? "starclick" : "star"} src={star} alt='star' width="30px" /></button></div>
               <div className="main-slide-text">
                 <h2>HBAF</h2>
-                <span>Gnuboard</span><br/>
+                <span>Gnuboard5</span><br/>
                 <span>구글 애널리틱스연동</span><br/>
                 <span>2021.04.28</span>
               </div>
